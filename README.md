@@ -22,3 +22,5 @@
 ![999_percent](https://user-images.githubusercontent.com/34379281/130560863-8a0888aa-29ba-4368-9a80-c2d82518c954.png)
 
 
+## Base-line model : Accuracy : 84% ( still working on) 
+
